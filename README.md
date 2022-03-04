@@ -1,4 +1,4 @@
-## Hi there! My name is Flávia! 🙋
+<h2> Hi there! My name is Flávia! 🙋</h2>
 
 ### About me
 ---
@@ -19,7 +19,7 @@ Graphic designer and book designer for 16 years, migrating to the incredible uni
 <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=radical)](https://github.com/FlaJaconis/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlaJaconis&layout=compact&show_icons=true&theme=radical)](https://github.com/FlaJaconis/github-readme-stats)
 
 ### Contact
 --- 
