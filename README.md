@@ -2,7 +2,7 @@
 
 ### About me
 ---
-Graphic designer and book designer for 16 years, migrating to the amazing universe of Technology.
+Graphic designer and book designer for 16 years, migrating to the amazing technology universe.
 
 
 ![FlaJaconis GitHub stats](https://github-readme-stats.vercel.app/api?username=FlaJaconis&show_icons=true&theme=radical)  
