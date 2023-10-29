@@ -23,4 +23,4 @@ Graphic designer and book designer for 16 years, migrating to the amazing techno
 
 ### Contact
 --- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1via-n-b4729231/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1via-j-b4729231/)https://www.linkedin.com/in/fl%C3%A1via-j-b4729231/)
